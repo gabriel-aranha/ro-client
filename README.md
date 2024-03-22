@@ -9,7 +9,7 @@
 7. On RO Translation Project, run [Tools/ClientGenerator.bat](https://github.com/llchrisll/ROenglishRE/blob/master/Tools/ClientGenerator.bat) and [Tools/CLSGenerator.bat](https://github.com/llchrisll/ROenglishRE/blob/master/Tools/CLSGenerator.bat).
 8. Open a new GRF in GRF Editor, then copy the data folder generated above into the program, then save it as anything other than data.grf into the new Ragnarok folder.
 9. Copy the System and .txt files generated above into the new Ragnarok folder.
-10. Create a new DATA.INI file containing the following code:
+10. Create a new DATA.INI file into the new Ragnarok folder containing the following code:
 ```
 [Data]
 0=data_en.grf <- the name of the .grf generated in step 8.
