@@ -6,7 +6,7 @@
 4. Download and add the [RO Patcher Lite](https://nn.ai4rei.net/dev/rsu/) to the root of this Ragnarok folder. Run and wait until it finishes updating.
 5. Download and add the [RO OpenSetup](https://nn.ai4rei.net/dev/opensetup/) to the root of this Ragnarok folder.
 6. Download and add the [RO Translation Project](https://github.com/llchrisll/ROenglishRE) to a new folder.
-7. On RO Translation Project, run [Tools/ClientGenerator.bat](https://github.com/llchrisll/ROenglishRE/blob/master/Tools/ClientGenerator.bat) and [Tools/CLSGenerator.bat](https://github.com/llchrisll/ROenglishRE/blob/master/Tools/CLSGenerator.bat).
+7. On RO Translation Project, run [Tools/ClientGenerator.bat](https://github.com/llchrisll/ROenglishRE/blob/master/Tools/ClientGenerator.bat).
 8. Open a new GRF in GRF Editor, then copy the data folder generated above into the program, then save it as anything other than data.grf into the new Ragnarok folder.
 9. Copy the System and .txt files generated above into the new Ragnarok folder.
 10. Create a new DATA.INI file into the new Ragnarok folder containing the following code:
